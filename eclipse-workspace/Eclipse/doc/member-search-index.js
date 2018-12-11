@@ -1,0 +1,1 @@
+memberSearchIndex = [{"p":"<Unnamed>","c":"Rectangulo","l":"getBase()"},{"p":"<Unnamed>","c":"Rectangulo","l":"getLado()"},{"p":"<Unnamed>","c":"Rectangulo","l":"Rectangulo()"},{"p":"<Unnamed>","c":"Rectangulo","l":"setBase(int)"},{"p":"<Unnamed>","c":"Rectangulo","l":"setLado(int)"},{"p":"<Unnamed>","c":"Rectangulo","l":"toString()"}]
